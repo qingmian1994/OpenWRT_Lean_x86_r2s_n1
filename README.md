@@ -1,6 +1,6 @@
-源：https://github.com/coolsnowwolf/lede
+主要源：https://github.com/coolsnowwolf/lede
 
-源：https://github.com/P3TERX/Actions-OpenWrt
+主要源：https://github.com/P3TERX/Actions-OpenWrt
 
 192.168.3.1/root/password
 
